@@ -4,5 +4,5 @@ class Calculator
 	{
 		
 	}
-	staticw
+	static
 }
